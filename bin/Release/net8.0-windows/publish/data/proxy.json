@@ -1,0 +1,51 @@
+{
+  "66b02de9d7b9015c617f27db": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "//admin",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  },
+  "66b050470b5e063ba95b2853": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "//sock5",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  },
+  "66b4fddbdd3f6f6aa759ee25": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "admin",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  },
+  "66b5f47c99596eb5995484cf": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "admin",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  },
+  "66c0e54064ec7ce6f11c7c7e": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "admin",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  },
+  "66cda91a2886938f4c62449d": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "admin",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  },
+  "66d041ff3473112cf4297c20": {
+    "type": "sock5",
+    "user": "sock5",
+    "pass": "admin",
+    "ip": "123.123.123.123",
+    "port": "8080"
+  }
+}

@@ -1,0 +1,13 @@
+00:35:00 : Execute: Get Local Data Profile...
+00:35:00 : Loaded All Local Profiles
+00:35:02 : Execute : Config Columns and Rows
+00:35:05 : Open profile id : 66b02de9d7b9015c617f27db  at positon : 0:0 with the size 620:517
+00:35:13 : Executed : Done open Profiles
+00:37:40 : Open profile id : 66b02de9d7b9015c617f27db  at positon : 0:0 with the size 620:517
+00:37:51 : Executed : Done open Profiles
+00:37:54 : Execute : Config Columns and Rows
+00:37:56 : Open profile id : 66b02de9d7b9015c617f27db  at positon : 0:0 with the size 620:517
+00:38:05 : Executed : Done open Profiles
+00:38:23 : Execute : Config Columns and Rows
+00:38:26 : Open profile id : 66b4fddbdd3f6f6aa759ee25  at positon : 0:0 with the size 620:517
+00:38:31 : Executed : Done open Profiles

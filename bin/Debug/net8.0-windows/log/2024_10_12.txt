@@ -1,0 +1,21 @@
+00:34:14 : Execute: Get Local Data Profile...
+00:34:16 : Loaded All Local Profiles
+00:34:17 : Execute : Config Columns and Rows
+00:34:22 : Open profile id : 66b4fddbdd3f6f6aa759ee25  at positon : 0:0 with the size 620:517
+00:34:22 : Open profile id : 66b02de9d7b9015c617f27db  at positon : 640:0 with the size 620:517
+00:34:49 : move target out of bounds
+  (Session info: chrome=126.0.6478.57)
+00:34:49 : move target out of bounds
+  (Session info: chrome=126.0.6478.57)
+00:34:49 : Executed : Done open Profiles
+08:49:27 : Execute : Update Profile
+08:49:29 : Execute: Get Local Data Profile...
+08:49:30 : Loaded All Local Profiles
+08:49:32 : Execute : Config Columns and Rows
+08:49:36 : Open profile id : 66b4fddbdd3f6f6aa759ee25  at positon : 0:0 with the size 620:517
+08:49:36 : Open profile id : 66b02de9d7b9015c617f27db  at positon : 640:0 with the size 620:517
+08:50:03 : move target out of bounds
+  (Session info: chrome=126.0.6478.57)
+08:50:05 : move target out of bounds
+  (Session info: chrome=126.0.6478.57)
+08:50:05 : Executed : Done open Profiles

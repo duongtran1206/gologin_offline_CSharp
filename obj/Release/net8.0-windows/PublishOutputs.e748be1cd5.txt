@@ -1,0 +1,11 @@
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\gologin_offline.exe
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\selenium-manager\linux\selenium-manager
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\selenium-manager\macos\selenium-manager
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\selenium-manager\windows\selenium-manager.exe
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\gologin_offline.dll
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\gologin_offline.deps.json
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\gologin_offline.runtimeconfig.json
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\gologin_offline.pdb
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\WebDriver.Support.dll
+D:\CSharp\gologin_offline\gologin_offline\bin\Release\net8.0-windows\publish\WebDriver.dll

@@ -1,0 +1,9 @@
+21:22:55 : Execute: Get Local Data Profile...
+21:22:56 : Loaded All Local Profiles
+23:11:56 : Execute : Config Columns and Rows
+23:11:58 : Execute: Get Local Data Profile...
+23:11:58 : Loaded All Local Profiles
+23:12:02 : Delete function do not active now !
+23:12:08 : Delete function do not active now !
+23:12:17 : Execute : Config Columns and Rows
+23:36:50 : Execute : Saving config

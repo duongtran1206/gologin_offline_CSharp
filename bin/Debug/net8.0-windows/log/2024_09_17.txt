@@ -1,0 +1,104 @@
+00:35:00 : Execute: Get Local Data Profile...
+00:35:00 : Loaded All Local Profiles
+00:35:02 : Execute : Edit Proxy
+00:35:07 : Execute : Edit Proxy
+00:35:07 : Execute : Edit Proxy
+00:35:07 : Execute : Edit Proxy
+00:35:09 : Execute : Edit Proxy
+00:35:12 : Execute : Edit Proxy
+00:43:22 : Execute: Get Local Data Profile...
+00:43:23 : Loaded All Local Profiles
+00:47:51 : Execute : Edit Proxy
+00:47:53 : Execute: Get Local Data Profile...
+00:47:54 : Loaded All Local Profiles
+00:47:55 : Execute : Edit Proxy
+00:50:19 : Execute: Get Local Data Profile...
+00:50:19 : Loaded All Local Profiles
+00:50:23 : Execute : Edit Proxy
+00:52:05 : Execute: Get Local Data Profile...
+00:52:05 : Loaded All Local Profiles
+00:52:06 : Execute : Edit Proxy
+00:53:05 : Execute: Get Local Data Profile...
+00:53:05 : Loaded All Local Profiles
+00:53:06 : Execute : Edit Proxy
+00:53:57 : Execute: Get Local Data Profile...
+00:53:58 : Loaded All Local Profiles
+00:53:59 : Execute : Edit Proxy
+00:58:44 : Execute: Get Local Data Profile...
+00:58:44 : Loaded All Local Profiles
+00:58:45 : Execute : Edit Proxy
+00:59:13 : Execute: Get Local Data Profile...
+00:59:14 : Loaded All Local Profiles
+00:59:15 : Execute : Edit Proxy
+01:00:11 : Execute: Get Local Data Profile...
+01:00:12 : Loaded All Local Profiles
+01:00:12 : Execute : Edit Proxy
+01:11:28 : Execute: Get Local Data Profile...
+01:11:28 : Loaded All Local Profiles
+01:11:30 : Execute : Edit Proxy
+01:11:36 : Execute : Edit Proxy
+01:11:38 : Execute : Edit Proxy
+01:18:16 : Execute: Get Local Data Profile...
+01:18:16 : Loaded All Local Profiles
+01:18:19 : Execute: Get Local Data Profile...
+01:18:19 : Loaded All Local Profiles
+01:18:20 : Execute : Edit Proxy
+01:18:24 : Execute : Edit Proxy
+01:18:31 : Execute: Get Local Data Profile...
+01:18:31 : Loaded All Local Profiles
+01:18:41 : Execute : Edit Proxy
+01:21:47 : Execute: Get Local Data Profile...
+01:21:48 : Loaded All Local Profiles
+01:21:50 : Execute : Edit Proxy
+01:21:54 : Execute : Edit Proxy
+01:21:57 : Execute: Get Local Data Profile...
+01:21:57 : Loaded All Local Profiles
+01:22:13 : Execute: Get Local Data Profile...
+01:22:13 : Loaded All Local Profiles
+01:22:15 : Execute : Edit Proxy
+01:25:07 : Execute: Get Local Data Profile...
+01:25:08 : Loaded All Local Profiles
+01:25:08 : Execute : Edit Proxy
+01:25:12 : Execute : Edit Proxy
+01:25:15 : Execute: Get Local Data Profile...
+01:25:15 : Loaded All Local Profiles
+01:25:20 : Execute : Edit Proxy
+01:25:24 : Execute : Edit Proxy
+01:25:29 : Execute : Edit Proxy
+01:25:41 : Execute : Edit Proxy
+01:25:46 : Execute : Edit Proxy
+01:25:50 : Execute: Get Local Data Profile...
+01:25:50 : Loaded All Local Profiles
+01:28:37 : Execute : Update Profile
+01:28:51 : Execute: Get Local Data Profile...
+01:28:51 : Loaded All Local Profiles
+01:28:52 : System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:36912)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at gologin_offline.Form2.StartProfileApi(String id_profile) in D:\CSharp\gologin_offline\gologin_offline\Form2.cs:line 203 | Update pop-up
+01:28:57 : Execute : Edit Proxy
+01:29:01 : Execute : Edit Proxy
+01:30:20 : Execute: Get Local Data Profile...
+01:30:20 : Loaded All Local Profiles
+01:30:22 : Execute : Edit Proxy
+01:30:32 : Execute: Get Local Data Profile...
+01:30:32 : Loaded All Local Profiles
+07:59:25 : Execute: Get Local Data Profile...
+07:59:26 : Loaded All Local Profiles
+07:59:56 : Execute : Edit Proxy
+08:00:00 : Execute : Edit Proxy
+08:00:07 : Execute: Get Local Data Profile...
+08:00:08 : Loaded All Local Profiles

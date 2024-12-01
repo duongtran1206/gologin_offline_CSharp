@@ -1,0 +1,125 @@
+01:19:57 : Execute : Update Profile
+01:20:01 : Name: test | Update pop-up
+01:20:01 : ID: 66d733be5db7ae496d0583e8 | Update pop-up
+01:21:44 : Execute : Update Profile
+01:22:44 : Execute : Update Profile
+01:23:03 : Execute : Get Local Data Profile ...
+01:23:04 : Loaded All Local Profiles
+01:23:04 : Execute : Get Local Data Profile ...
+01:24:42 : Execute : Get Local Data Profile ...
+01:24:42 : Loaded All Local Profiles
+01:24:42 : Execute : Get Local Data Profile ...
+01:24:56 : Execute: Get Local Data Profile...
+01:24:57 : Loaded All Local Profiles
+01:24:57 : Execute: Get Local Data Profile...
+01:24:57 : Loaded All Local Profiles
+01:24:59 : Execute: Get Local Data Profile...
+01:24:59 : Loaded All Local Profiles
+01:26:11 : Execute: Get Local Data Profile...
+01:26:12 : Loaded All Local Profiles
+01:26:12 : Execute: Get Local Data Profile...
+01:26:12 : Loaded All Local Profiles
+01:26:13 : Execute: Get Local Data Profile...
+01:26:13 : Loaded All Local Profiles
+01:26:13 : Execute: Get Local Data Profile...
+01:26:13 : Loaded All Local Profiles
+01:26:13 : Execute: Get Local Data Profile...
+01:26:13 : Loaded All Local Profiles
+01:26:14 : Execute : Update Profile
+01:27:06 : Execute: Get Local Data Profile...
+01:27:07 : Loaded All Local Profiles
+01:27:08 : Execute: Get Local Data Profile...
+01:27:08 : Loaded All Local Profiles
+01:27:09 : Execute : Update Profile
+20:46:56 : Execute : Update Profile
+20:50:04 : Execute: Get Local Data Profile...
+20:50:05 : Loaded All Local Profiles
+20:53:44 : Execute : Update Profile
+21:04:35 : Execute : Update Profile
+21:05:32 : Execute : Update Profile
+21:07:23 : Execute : Update Profile
+21:08:40 : Execute : Update Profile
+21:09:16 : Execute : Update Profile
+21:09:42 : Execute: Get Local Data Profile...
+21:09:42 : Loaded All Local Profiles
+21:09:43 : Execute : Update Profile
+21:09:49 : Execute: Get Local Data Profile...
+21:09:49 : Loaded All Local Profiles
+21:09:49 : Execute: Get Local Data Profile...
+21:09:50 : Loaded All Local Profiles
+21:09:50 : Execute: Get Local Data Profile...
+21:09:50 : Loaded All Local Profiles
+21:09:50 : Execute: Get Local Data Profile...
+21:09:50 : Loaded All Local Profiles
+21:09:50 : Execute: Get Local Data Profile...
+21:09:51 : Loaded All Local Profiles
+21:12:17 : Execute : Update Profile
+21:12:22 : Execute : Update Profile
+21:12:42 : Execute : Update Profile
+21:13:07 : Execute : Update Profile
+21:28:43 : Execute : Update Profile
+21:30:17 : Execute : Update Profile
+21:30:22 : Execute: Get Local Data Profile...
+21:30:23 : Loaded All Local Profiles
+21:30:23 : Execute : Update Profile
+21:35:52 : Execute : Update Profile
+21:36:17 : Execute : Update Profile
+21:36:20 : System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at gologin_offline.Form2.StartProfileApi(String id_profile) in D:\CSharp\gologin_offline\gologin_offline\Form2.cs:line 59 | Update pop-up
+21:36:27 : System.Net.Http.HttpRequestException: Response status code does not indicate success: 400 (Bad Request).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at gologin_offline.Form2.StartProfileApi(String id_profile) in D:\CSharp\gologin_offline\gologin_offline\Form2.cs:line 59 | Update pop-up
+21:36:50 : Execute : Update Profile
+21:37:35 : Execute : Update Profile
+21:38:03 : Execute : Update Profile
+21:38:13 : {"status":"success","wsUrl":"ws://127.0.0.1:28095/devtools/browser/2dc07136-21b2-419a-8cd2-6ce6e7876412"} | Update pop-up
+21:38:18 : {"status":"success","wsUrl":"ws://127.0.0.1:25421/devtools/browser/e33716ac-88a6-40d7-80d2-cabe8a0b3ef6"} | Update pop-up
+21:38:43 : Execute : Update Profile
+21:39:04 : {"status":"success","wsUrl":"ws://127.0.0.1:29504/devtools/browser/f7090cc2-a61c-4936-9e1f-3a04148733e9"} | Update pop-up
+21:39:04 : {"status":"success","wsUrl":"ws://127.0.0.1:29553/devtools/browser/823dbb68-7a30-419f-9898-a6995ee6dd5d"} | Update pop-up
+21:39:22 : Execute : Update Profile
+21:39:34 : Execute : Update Profile
+21:39:41 : {"status":"success","wsUrl":"ws://127.0.0.1:20637/devtools/browser/46f8061c-2d7a-4e12-9ea3-02ee56150171"} | Update pop-up
+21:39:41 : {"status":"success","wsUrl":"ws://127.0.0.1:25918/devtools/browser/cab59ef0-b72b-4aa8-abbe-15d0c19c6bc1"} | Update pop-up
+21:40:30 : Execute : Update Profile
+21:40:36 : {"status":"success","wsUrl":"ws://127.0.0.1:25067/devtools/browser/4f2451d3-e72e-4d22-98a4-76f9ad2043ab"} | Update pop-up
+21:40:36 : {"status":"success","wsUrl":"ws://127.0.0.1:23271/devtools/browser/6bd39bd5-2a01-4615-b8d8-cbd7eef2e500"} | Update pop-up
+21:44:14 : Execute : Update Profile
+21:44:20 : {"status":"success","wsUrl":"ws://127.0.0.1:25555/devtools/browser/ecbafe8b-3ab3-47f3-b32b-e1c6d4c207b1"} | Update pop-up
+21:44:20 : {"status":"success","wsUrl":"ws://127.0.0.1:25010/devtools/browser/412516c4-1b35-4d31-b89c-eb65e79c69a8"} | Update pop-up
+21:45:05 : Execute : Update Profile
+21:45:14 : {"status":"success","wsUrl":"ws://127.0.0.1:22504/devtools/browser/8714b889-d205-45f1-8142-acca28eb856c"} | Update pop-up
+21:45:14 : {"status":"success","wsUrl":"ws://127.0.0.1:21926/devtools/browser/d3cf975e-291f-477e-b9dc-4a821469912c"} | Update pop-up
+21:45:16 :  | Update pop-up
+21:45:16 :  | Update pop-up
+21:45:23 : {"status":"success","wsUrl":"ws://127.0.0.1:28133/devtools/browser/cd7602ce-9db8-4920-bc97-487739a9f460"} | Update pop-up
+21:45:24 :  | Update pop-up
+21:45:28 : {"status":"success","wsUrl":"ws://127.0.0.1:20478/devtools/browser/7af269d2-c1d6-4836-bf31-5f23dd76d8f7"} | Update pop-up
+21:45:28 :  | Update pop-up
+21:47:32 : Execute : Update Profile
+21:47:38 : {"status":"success","wsUrl":"ws://127.0.0.1:22021/devtools/browser/f0ac9b96-3a58-412a-822c-f1cec6816293"} | Update pop-up
+21:48:03 :  | Update pop-up
+21:48:14 : {"status":"success","wsUrl":"ws://127.0.0.1:20956/devtools/browser/e3cb6cf7-e2da-4307-a328-c60fcadbb439"} | Update pop-up
+22:15:39 : Execute : Update Profile
+22:16:43 : Execute : Update Profile
+22:17:29 : Execute : Update Profile
+22:19:43 : Execute : Update Profile
+22:26:28 : Execute : Update Profile
+22:26:57 : Execute : Update Profile
+22:27:30 : Execute : Update Profile
+22:27:48 : Execute : Update Profile
+22:28:10 : Execute : Update Profile
+22:33:36 : Execute : Update Profile
+22:35:58 : Execute : Update Profile
+22:38:11 : Execute : Update Profile
+22:39:33 : Execute : Update Profile
+22:40:53 : Execute : Update Profile
+22:41:38 : Execute : Update Profile
+22:42:26 : Execute : Update Profile
+22:44:21 : Execute : Update Profile
+22:45:41 : Execute : Update Profile
+22:48:03 : Execute : Update Profile
+23:18:42 : Execute : Update Profile
+23:21:55 : Execute : Update Profile
+23:22:41 : Execute : Update Profile

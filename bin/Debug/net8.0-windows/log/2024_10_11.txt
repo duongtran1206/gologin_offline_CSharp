@@ -1,0 +1,9 @@
+09:32:32 : Execute: Get Local Data Profile...
+09:32:33 : Loaded All Local Profiles
+09:32:38 : Execute : Config Columns and Rows
+09:32:42 : Open profile id : 66b02de9d7b9015c617f27db  at positon : 0:0 with the size 620:517
+09:32:42 : Open profile id : 66b4fddbdd3f6f6aa759ee25  at positon : 640:0 with the size 620:517
+09:33:03 : Timed out after 10 seconds
+09:33:08 : move target out of bounds
+  (Session info: chrome=126.0.6478.57)
+09:33:08 : Executed : Done open Profiles

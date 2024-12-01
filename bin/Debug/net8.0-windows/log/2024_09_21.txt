@@ -1,0 +1,16 @@
+00:05:11 : Execute : Update Profile
+00:05:12 : Get List Profile Online
+00:05:15 : Started Selected Profiles
+00:05:19 : {"status":"success","wsUrl":"ws://127.0.0.1:27758/devtools/browser/ad4d8ffb-eb98-4236-be80-aa15d8dd27fb"} | Update pop-up
+00:11:15 : Execute : Update Profile
+00:11:18 : Get List Profile Online
+00:11:19 : Started Selected Profiles
+00:11:21 : {"status":"success","wsUrl":"ws://127.0.0.1:27868/devtools/browser/c827498a-68c5-40ba-9b9d-cf41fbe3be46"} | Update pop-up
+16:57:27 : Execute: Get Local Data Profile...
+16:57:28 : Loaded All Local Profiles
+16:57:32 : Execute : Config Columns and Rows
+16:57:36 : Open profile id : 66b050470b5e063ba95b2853  at positon : 0:0 with the size 940:517
+16:57:43 : Executed : Done open Profiles
+16:58:12 : Execute : Config Columns and Rows
+16:58:15 : Open profile id : 66b050470b5e063ba95b2853  at positon : 0:0 with the size 940:517
+16:58:21 : Executed : Done open Profiles
